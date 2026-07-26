@@ -15,14 +15,14 @@ This repository contains hand-solved C programs covering core language concepts,
 └── misc/             
 ```
 
-## Progress
-Topic	Questions Solved
-Basics	-
-Conditional statement	-
-Loops -
-Arrays & Strings	-
-Pointers	-
-Misc	-
+## Progress   
+Topic	Questions Solved   
+Basics	- Assessment 1    
+Conditional statement	- Assessment 2    
+Loops - Assessment 5 and Assessment 6     
+Arrays & Strings	- Assessment 9
+Pointers	-       
+Misc	- Practice session     
 
 ## Quick Links
 

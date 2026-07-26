@@ -20,7 +20,7 @@ Topic	Questions Solved
 Basics	- Assessment 1    
 Conditional statement	- Assessment 2    
 Loops - Assessment 5 and Assessment 6     
-Arrays & Strings	- Assessment 9
+Arrays & Strings	- Assessment 9    
 Pointers	-       
 Misc	- Practice session     
 
